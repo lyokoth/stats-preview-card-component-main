@@ -7,7 +7,7 @@
 
 The challenge is to build out a card component and get it looking as close to this design as possible:
 
-[!Design](./design/desktop-design.jpg)
+![](https://github.com/lyokoth/stats-preview-card-component-main/blob/master/design/desktop-design.jpg)
 
 
 ## Table of Contents 
