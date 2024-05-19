@@ -34,7 +34,7 @@ I initially decided to use tailwind CSS at the beginning, but decided aganist it
 
 ## Screenshot 
 
-[!screenshot](./screenshot/screenshot.png)
+![](https://github.com/lyokoth/stats-preview-card-component-main/blob/master/screenshot/screenshot.png)
 
 ## Built with 
 
