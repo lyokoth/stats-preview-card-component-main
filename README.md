@@ -7,7 +7,7 @@
 
 The challenge is to build out a card component and get it looking as close to this design as possible:
 
-[Design](./design/desktop-design.jpg)
+[!Design](./design/desktop-design.jpg)
 
 
 ## Table of Contents 
@@ -34,7 +34,7 @@ I initially decided to use tailwind CSS at the beginning, but decided aganist it
 
 ## Screenshot 
 
-[screenshot](./screenshot/screenshot.png)
+[!screenshot](./screenshot/screenshot.png)
 
 ## Built with 
 
